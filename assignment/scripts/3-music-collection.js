@@ -1,8 +1,16 @@
 console.log('***** Music Collection *****')
 // Safe Zone -- Write code below this line
 
+function addToCollection(collection, title, artist, yearPublished) {
+return collection
+}
 
-
+let allTimeGreats = [];
+let randomAccessMemories = {
+  title: "Random Access Memories",
+  artist: "Daft Punk",
+  yearPublished:2013,
+};
 
 
 
